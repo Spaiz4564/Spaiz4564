@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **guyshilon30@gmail.com**
 
-- 📄 Know about my experiences <span class="link">https://drive.google.com/file/d/1nWg2vvMW8G1LCYZVNuq_Gs1Nsg4w6tSi/view?usp=sharing</span>
+- 📄 Know about my experiences <span class="link">https://resume.io/r/q1b6qurZd</span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
