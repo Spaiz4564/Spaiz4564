@@ -11,7 +11,7 @@ I live in Ness Ziona, Israel. I like music, good food, gaming, and coding.
 
 ### My Favorite Project Repos
 * <a href="https://github.com/Spaiz4564/Nicerr---Frontend">Nicerr</a> - A marketplace website inspired by Fiverr.
-* <a href="https://github.com/Spaiz4564/Appsus>Appsus</a> - An app inspired by Gmail and Google Keep
+* <a href="https://github.com/Spaiz4564/Appsus">Appsus</a> - An app inspired by Gmail and Google Keep
 * <a href="https://github.com/Spaiz4564/Yung-Dental">Yung Dental</a> - A custom-designed website for a dental laboratory
 
 ![Guy's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaiz4564&show_icons=true&theme=dark)
